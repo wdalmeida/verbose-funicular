@@ -1,0 +1,8 @@
+tenant: gfdhkgfdsrty
+product: testsjjf
+proxyEntries:
+  - google.com
+githubTopics:
+  - method: artefact
+    name: test
+    description: someting
