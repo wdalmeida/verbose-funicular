@@ -2,6 +2,7 @@ tenant: gfdhkgfdsrty
 product: testsjjf
 proxyEntries:
   - google.com
+  - github.com
 githubTopics:
   - method: artefact
     name: test
