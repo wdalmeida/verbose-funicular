@@ -1,0 +1,8 @@
+runtime: node
+runtimeVersion: "24"
+buildCommand: run
+testCommand: test
+triggerBranches:
+  - main
+registryDocker: test-docker
+registryMaven: test-maven
